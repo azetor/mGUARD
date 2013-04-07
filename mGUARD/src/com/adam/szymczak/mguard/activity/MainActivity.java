@@ -1,6 +1,6 @@
-package com.example.mguard.activity;
+package com.adam.szymczak.mguard.activity;
 
-import com.example.mguard.R;
+import com.adam.szymczak.mguard.R;
 
 import android.os.Bundle;
 import android.app.Activity;

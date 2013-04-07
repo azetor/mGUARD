@@ -1,4 +1,4 @@
-package com.example.mguard;
+package com.adam.szymczak.mguard;
 
 import android.app.Application;
 
